@@ -1,0 +1,293 @@
+.food-munch-logo {
+    width: 180px;
+    height: 90px;
+    padding-left: 0px;
+  }
+  .navbar{
+    background-color:black;
+  }
+  #navItem1 {
+    color:white;
+    font-family: "Roboto";
+  }
+  #navItem2 {
+    color: white;
+    font-family: "Roboto";
+  }
+  #navItem3 {
+    color:white;
+    font-family: "Roboto";
+  }
+  #navItem4 {
+    color:white;
+    font-family: "Roboto";
+  }
+  .banner-section-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?t=st=1714463405~exp=1714467005~hmac=87dfe7e4eeba4f9ec8795d31b5bdff9eeaaa430198eaf1120c699fc0e706b8ac&w=900");
+    height: 100vh;
+    background-size: cover;
+  }
+  .banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-style: italic;
+    font-size: 45px;
+    font-weight: 1000;
+  }
+  .banner-caption {
+    color:wheat;
+    font-family: "Roboto";
+    font-style: italic;
+    font-size: 24px;
+    font-weight: 1000;
+  }
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  .custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+  }
+  .wcu-section {
+    background-color: #f9fbfe;
+  }
+  .wcu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+  }
+  .wcu-card-image {
+    width: 87px;
+    height: 90px;
+  }
+  .wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+  }
+  .wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+  }
+  .explore-menu-section {
+    background-color:black;
+  }
+  .menu-section-heading {
+    color:red;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .menu-item-image {
+    border-radius: 16px;
+    height:45vh;
+    width:70px;
+  }
+  .menu-item-image:hover {
+    transform: scale(1.05);
+  }
+  .menu-card-title {
+    color:white;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+  }
+  .menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .menu-item-card {
+    border-radius: 16vh;
+  }
+  .healthy-food-section {
+    background-color: #f9fbfe;
+  }
+  .healthy-food-section-img {
+    width: 270px;
+  }
+  .healthy-food-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .delivery-and-payment-section {
+    background-color: white;
+  }
+  .delivery-and-payment-section-img {
+    width: 270px;
+  }
+  .delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+  }
+  .thanking-customers-section {
+    background-color: #d0b2001a;
+  }
+  .thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+  }
+  .follow-us-section {
+    background-color: white;
+  }
+  .follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  }
+  .icon {
+    color: #d0b200;
+    font-size: 35px;
+  }
+  .footer-section {
+    background-color: #0d2436;
+  }
+  .footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+  }
+  .card {
+    width: 190px;
+    height: 254px;
+    display: flex;
+    margin-left: 7%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    flex-direction: column;
+    align-items: center;
+    background: #f2f2f3;
+    border-radius: 12px;
+    box-shadow: inset 5px 5px 10px #a9a9aa77,
+                 inset -5px -5px 10px #ffffff7e;
+   }
+   
+   .card .img {
+    height: 100px;
+    margin-top: 1.6em;
+    aspect-ratio: 1;
+    border-radius: 30%;
+    background: #f2f2f3;
+    margin-bottom: 0.4em;
+    box-shadow: -5px -5px 8px #ffffff7a, 
+                 5px 5px 8px #a9a9aa7a;
+   }
+   
+   .card .info {
+    text-align: center;
+    margin-top: 0.4em;
+    background: linear-gradient(120deg, rgba(0,194,255,1) 0%, rgba(0,86,255,1) 100%);
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   }
+   
+   .card .info > span {
+    font-weight: bold;
+    font-size: 1.2em;
+   }
+   
+   .card a {
+    margin-top: 1em;
+    color: #fff;
+    text-decoration: none;
+    background: linear-gradient(90deg, rgba(0,194,255,1) 0%, rgba(0,86,255,1) 100%);
+    padding: .5em 2em;
+    border-radius: 0.7em;
+   }
+   
+   .card a:active {
+    box-shadow: inset 3px 3px 3px #0056ff,
+                inset -3px -3px 3px #00c2ff;
+   }
+.headvenki{
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:1000;
+    font-size:30px;
+}
